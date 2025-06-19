@@ -1,0 +1,2 @@
+# FunctionalFinance
+Scala finance project
